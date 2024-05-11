@@ -26,10 +26,4 @@ This repository contains firmware code for interfacing an STM32F103C8 microcontr
 5. Connect the STM32F103C8 to the I2C-compatible EEPROM.
 6. Power up the setup and verify communication between the microcontroller and the EEPROM.
 
-## Contributions
 
-Contributions to improve and extend this project are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
